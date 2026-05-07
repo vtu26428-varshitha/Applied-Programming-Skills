@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/vtu26428-varshitha/Applied-Programming-Skills/tree/master/0994-rotting-oranges) |
 ## Topological Sort
